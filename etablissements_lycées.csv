@@ -1,4 +1,4 @@
-﻿geo_point_2d;geo_shape;nature_l;sigle;secteur_l;com_cod;com_l;acad_l;denom;patro_c;dept
+﻿geo_point_2d;geo_shape;nature_l;sigle;secteur;code_postal;commune;academie;denom;nom_lycee;dept
 48.87693477030975, 2.5245952712770965;"{""coordinates"": [2.524595271277096, 48.87693477030975], ""type"": ""Point""}";Lycée d'enseignement général et technologique;LGT;Public;93077;Villemomble;Créteil;LYCEE GENERAL ET TECHNOLOGIQUE;GEORGES-CLEMENCEAU;93
 48.85750370015698, 2.3631629610031837;"{""coordinates"": [2.363162961003184, 48.85750370015698], ""type"": ""Point""}";Lycée d'enseignement général;LG;Public;75103;Paris 3e Arrondissement;Paris;LYCEE GENERAL;VICTOR-HUGO;75
 48.88824378524283, 2.393445601004905;"{""coordinates"": [2.393445601004905, 48.88824378524283], ""type"": ""Point""}";Lycée polyvalent;LPO;Public;75119;Paris 19e Arrondissement;Paris;LPO LYCEE DES METIERS;ALEMBERT (D');75
